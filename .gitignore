@@ -1,0 +1,72 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.c9/
+*.launch
+.settings/
+
+# Android
+bin/
+gen/
+local.properties
+
+# Files
+.DS_Store
+*.swp
+*.swo
+*~
+.classpath
+.c9/
+*.launch
+.settings/
+.vscode/
+
+# IDE (IntelliJ)
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# IDE (Visual Studio Code)
+.vscode/
+
+# Gradle
+.gradle
+build/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Signing
+*.keystore
+*.jks
+*.key
+*.pem
+*.p12
+
+# Environment
+.env
+.env.local
+local.properties
+
+# Generated
+*.class
+*.dex
+*.apk
+*.ap_
